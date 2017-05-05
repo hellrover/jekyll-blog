@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Welcome!</title>
+    <title>Ubuntu And mod_rewrite</title>
     <link rel="stylesheet" href="/css/main.css">
   </head>
   <body>
@@ -30,32 +30,24 @@
 </nav>
 
     <div class="container" style="min-height: 520px; padding-bottom: 30px">
-      <h1>Welcome to my Blog!</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<hr>
-<ul>
-  
-    <li>
-      <a href="/2017/05/05/video-test.html">Video Test</a>
-    </li>
-  
-    <li>
-      <a href="/2017/05/05/ubuntu-show-php-errors.html">Ubuntu Show PHP Errors</a>
-    </li>
-  
-    <li>
-      <a href="/2017/05/05/ubuntu-and-mod-rewrite.html">Ubuntu And mod_rewrite</a>
-    </li>
-  
-    <li>
-      <a href="/2017/05/05/freenom-domain-and-github.html">Freenom Free Domain And Github</a>
-    </li>
-  
-    <li>
-      <a href="/2017/05/04/jekyll-live-reload.html">Jekyll Live Reload</a>
-    </li>
-  
-</ul>
+      <div class="post-wrap">
+
+  <h2>Ubuntu And mod_rewrite</h2>
+  <small class="text-muted">2017-05-05 00:00:00 +0200</small>
+  <hr>
+  <div class="">
+    
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">  sudo a2enmod rewrite <span class="o">&amp;&amp;</span> sudo service apache2 restart</code></pre></figure>
+
+<p>AllowOverride is set to None, set it to All, assuming Apache2.4</p>
+
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">  sudo nano /etc/apache2/apache2.conf</code></pre></figure>
+
+<p>search for <strong>&lt;Directory /var/www/&gt;</strong> and change AllowOverride None to <strong>AllowOverride All</strong>, then save the file and restart apache</p>
+
+  </div>
+
+</div>
 
     </div>
     <footer style="align-self: flex-end">
