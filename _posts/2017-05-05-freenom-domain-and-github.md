@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Freenom Free Domain And Github
+date: 2017-05-05 14:40:45 +02:00
 ---
 <p>In This Post, I will Tell you how to setup a custom domain with a repo, where you hosted your website.</p>
 

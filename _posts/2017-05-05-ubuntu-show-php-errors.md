@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ubuntu Show PHP Errors
+date: 2017-05-05 22:43:22 +02:00
 ---
 <p>Set <strong>display_errors = On</strong> in both php.ini files:</p>
 

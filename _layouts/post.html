@@ -4,8 +4,14 @@ layout: default
 
 <div class="post-wrap">
 
+  <ol class="breadcrumb">
+    <li><a href="{{site.baseurl}}/">Home</a></li>
+    <li><a href="{{site.baseurl}}/posts.html">Posts</a></li>
+    <li class="active"><span>{{ page.title }}</span> - <small style="font-size:11px" class="text-muted">{{ page.date }}</small></li>
+  </ol>
+
   <h2>{{ page.title }}</h2>
-  <small class="text-muted">{{ page.date }}</small>
+
   <hr>
   <div class="">
     {{ page.content }}

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ubuntu And mod_rewrite
+date: 2017-05-05 15:20:12 +02:00
 ---
 
 {% highlight shell %}

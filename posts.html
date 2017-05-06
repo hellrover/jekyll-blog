@@ -1,0 +1,14 @@
+---
+layout: default
+title: All Posts
+---
+
+<h2>All Posts</h2>
+<hr><br>
+<ol class="list-all-posts">
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ol>

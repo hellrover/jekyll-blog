@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Jekyll Live Reload
-date:   2017-05-04
+date:   2017-05-04 12:30:11 +02:00
 ---
 
 <blockquote>
