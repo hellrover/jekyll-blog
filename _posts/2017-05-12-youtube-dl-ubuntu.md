@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video Test
+title: Youtube-dl with Ubuntu
 date: 2017-05-12 18:40:45 +02:00
 ---
 <p>Install python</p>
@@ -31,3 +31,6 @@ date: 2017-05-12 18:40:45 +02:00
 {% endhighlight %}
 
 <p>Download youtube <strong>playlist</strong></p>
+{% highlight shell %}
+  youtube-dl -cit http://
+{% endhighlight %}
