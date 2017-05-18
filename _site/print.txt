@@ -1,0 +1,432 @@
+    1  telegram
+    2  sudo dpkg -i s.deb
+    3  cd /var/www/html
+    4  cd test
+    5  sublime .
+    6  sudo sublime .
+    7  sudo add-apt-repository ppa:graphics-drivers/ppa
+    8  sudo apt update
+    9  cd Desktop
+   10  cd honlapom
+   11  jekyll serve -w
+   12  clear
+   13  cd ..
+   14  cd..
+   15  cd /
+   16  cd Desktop
+   17  ls
+   18  cd home
+   19  cd Desktop
+   20  s
+   21  ls
+   22  cd mr-robot
+   23  cd Desktop
+   24  jekyll new portfolio
+   25  cd portfolio
+   26  jekyll serve -w
+   27  cd ..
+   28  cd /
+   29  cd home
+   30  cd mr-robot
+   31  cd Desktop
+   32  jekyll new myblog --blank
+   33  cs myblog
+   34  cd myblog
+   35  jekyll serve -w
+   36  cd //
+   37  cd home
+   38  cd mr-robot/Desktop
+   39  jekyll make myblog
+   40  jekyll new myblog
+   41  jekyll serve -w
+   42  cd myblog
+   43  jekyll serve -w
+   44  cd ..
+   45  jekyll new website
+   46  cd website
+   47  jekyll serve
+   48  sudo apt-get install qbittorrent
+   49  sudo apt-get install utorrent
+   50  ls
+   51  cd Desktop
+   52  cd myblog
+   53  cd ..
+   54  cd myblog
+   55  jekyll serve -w
+   56  cd..
+   57  cd ..
+   58  jekyll new myblog --blank
+   59  jekyll serve -w
+   60  jekyll new myblog --blank
+   61  jekyll serve -w
+   62  cd myblog
+   63  jekyll serve -w
+   64  cd ..
+   65  cd website
+   66  yekyll serve
+   67  jekyll serve
+   68  ls
+   69  cd Desktop/website
+   70  ls
+   71  jekyll serve
+   72  cd ..
+   73  cd myblog
+   74  jekyll serve
+   75  jekyll serve -w
+   76  cd Desktop
+   77  jekyll new blog --blank
+   78  cd blog
+   79  jekyll serve
+   80  cd Desktop
+   81  jekyll make myblog
+   82  jekyll new myblog
+   83  cd Desktop
+   84  jekyll new myblog
+   85  cd myblog
+   86  bundle exec jekyll serve
+   87  cd ..
+   88  jekyll new blog
+   89  jekyll new blog --blank
+   90  cd Desktop
+   91  jekyll new blog --blank
+   92  cd blog
+   93  ls
+   94  jekyll serve -w
+   95  jekyll -v
+   96  jekyll serve -w
+   97  cd Desktop
+   98  cd blog
+   99  gem 'jekyll-sass-converter'
+  100  gem install jekyll-sass-converter
+  101  sudo gem install jekyll-sass-converter
+  102  gem 'jekyll-sass-converter'
+  103  jekyll serve -w
+  104  bundle init
+  105  bundler install
+  106  jekyll build
+  107  cd Desktop
+  108  jekyll new blog --blank
+  109  jekyll build
+  110  bundle init
+  111  cd blog
+  112  jekyll build
+  113  bundle init
+  114  bundle install
+  115  jekyll liveserve
+  116  bundle exec jekyll liveserve
+  117  jekyll liveserve
+  118  git -v
+  119  git
+  120  git config --global user.name "hellrover"
+  121  git config --global user.email "6gasparz@gmail.com"
+  122  git init
+  123  git remote add origin https://github.com/hellrover/jekyll-blog.git
+  124  git status
+  125  git add .
+  126  git status
+  127  git commit -m "First Commit"
+  128  git push origin master
+  129  git reset --hard HEAD^
+  130  git reset --hard HEAD
+  131  git status
+  132  git commit
+  133  git init
+  134  git remote add origin https://github.com/hellrover/jekyll-blog.git
+  135  git status
+  136  git add .
+  137  git commit -m "First Commit"
+  138  git push origin master
+  139  git status
+  140  git add .
+  141  git commit -m "Added Lorem to the index.html"
+  142  git push origin master
+  143  git push origin gh-pages
+  144  git status
+  145  git add .
+  146  git commit -m "Added title to the index.html"
+  147  cd Desktop
+  148  cd blog
+  149  git status
+  150  git branch gh-pages
+  151  git branch
+  152  git push origin gh-pages
+  153  cd Desktop
+  154  cd blog
+  155  jekyll serve -w
+  156  git status
+  157  git add .
+  158  git commit -m "Add a video to the index.html"
+  159  git push origin gh-pages
+  160  git push 
+  161  git push -f origin gh-pages
+  162  git status
+  163  git add .
+  164  git commit -m "Add a video to the index.html"
+  165  git push origin gh-pages
+  166  cd Desktop
+  167  cd blog
+  168  git status
+  169  git init
+  170  git status
+  171  git add . 
+  172  git remote add origin https://github.com/hellrover/jekyll-blog.git
+  173  git branch gh-pages
+  174  git branch
+  175  git commit -m "First Commit"
+  176  git push origin gh-pages
+  177  git push origin master
+  178  git branch
+  179  git branch gh-pages
+  180  git branch
+  181  git branch --delete master
+  182  git status
+  183  git add .
+  184  git status
+  185  git commit -m "Changed the main.css link in default.html"
+  186  git push origin gh-pages
+  187  jekyll serve
+  188  git status
+  189  git add .
+  190  cd ..
+  191  mkdir blog
+  192  cd blog
+  193  git clone https://github.com/hellrover/jekyll-blog.git
+  194  cd ..
+  195  cd jekyll-blog
+  196  git status
+  197  git add .
+  198  git commit -m "Added the data"
+  199  git push origin gh-pages
+  200  cd ..
+  201  jekyll new blog
+  202  jekyll build
+  203  cd blog
+  204  ls
+  205  jekyll build
+  206  jekyll serve
+  207  jekyll build
+  208  git status
+  209  git add .
+  210  git status
+  211  git commit -m "Big Changes"
+  212  git push origin gh-pages
+  213  cd ..
+  214  cd /
+  215  cd Home
+  216  ls
+  217  cd home
+  218  cd mr-robot
+  219  cd Desktop
+  220  jekyll new blog
+  221  cd blog
+  222  ls
+  223  jekyll build
+  224  bundle install
+  225  jekyll liveserve
+  226  git stats
+  227  git status
+  228  git add .
+  229  git commit -m "Add blog files"
+  230  git push origin gh-pages
+  231  jekyll build
+  232  git status
+  233  git add .
+  234  git commit -m "Added the _site folder"
+  235  git push origin gh-pages
+  236  git status
+  237  git clone https://github.com/hellrover/jekyll-blog.git
+  238  jekyll new jekyll-blog --blank
+  239  cd jekyll-blog
+  240  git clone https://github.com/hellrover/jekyll-blog.git
+  241  jekyll new .
+  242  jekyll new . --blank
+  243  git status
+  244  jekyll new .
+  245  git status
+  246  jekyll new . --blank
+  247  git status
+  248  git init
+  249  git remote add oriigin https://github.com/hellrover/jekyll-blog.git
+  250  git status
+  251  jekyll new . --blank
+  252  git status
+  253  git add .
+  254  git status
+  255  git add _drafts
+  256  git status
+  257  git rm --cached index.html
+  258  git tatus
+  259  git status
+  260  git rm --cached index.html
+  261  git rm --cached _drafts
+  262  jekyll new blog --blank
+  263  git clone https://github.com/hellrover/jekyll-blog.git
+  264  git status
+  265  git clone https://github.com/hellrover/jekyll-blog.git
+  266  git status
+  267  git branche
+  268  git branch
+  269  jekyll build
+  270  git status
+  271  bundle install
+  272  bundle
+  273  bundle install
+  274  jekyll liveserve
+  275  jekyll liveserve -w
+  276  jekyll liveserve
+  277  /etc/init.d/apache2 restart
+  278  jekyll livserve
+  279  jekyll liveserve
+  280  jekyll liveserve --port=9999
+  281  jekyll liveserve -p 9999
+  282  jekyll liveserve -port 9999
+  283  jekyll liveserve --port 9999
+  284  jekyll new blogggg
+  285  jekyll build
+  286  jekyll liveserve
+  287  jekyll serve
+  288  jekyll liveserve
+  289  sudo apt-get install phpmyadmin
+  290  jekyll liveserve
+  291  git status
+  292  git add .
+  293  git commit -m "Big changes and 2 post added"
+  294  git push origin gh-pages
+  295  git pull
+  296  git push origin gh-pages
+  297  jekyll liveserve
+  298  git add .
+  299  git commit -m "index.htm"
+  300  git push origin gh-pages
+  301  jekyll liveserve
+  302  git add .
+  303  git commit -m "index.html embed"
+  304  git push origin gh-pages
+  305  git add .
+  306  git commit -m "Video test"
+  307  git push origin gh-pages
+  308  hellrover
+  309  motherlode6
+  310  git push origin gh-pages
+  311  sudo a2ensite market.dev
+  312  jekyll liveserve
+  313  composer create-project --prefer-dist laravel/laravel market
+  314  cd ..
+  315  sudo chmod -R 777 /var/www/html/
+  316  composer create-project --prefer-dist laravel/laravel market
+  317  sudo composer create-project --prefer-dist laravel/laravel market
+  318  sudo a2ensite reload
+  319  sudo /etc/init.d/apache2 reload
+  320  sudo a2ensite market.dev
+  321  sudo /etc/init.d/apache2 reload
+  322  sudo chmod -R 777 /var/www/html/
+  323  sudo chmod -R 777 /var/www
+  324  php artisan make auth
+  325  cd html
+  326  cd market
+  327  php artisan make auth
+  328  php artisan make:auth
+  329  sudo a2enmod rewrite
+  330  systemctl restart apache2
+  331  sudo service apache2 restart
+  332  a2enmod rewrite
+  333  service apache2 reload
+  334  service apache2 restart
+  335  sudo a2enmod rewrite && sudo service apache2 restart
+  336  sudo nano /etc/apache2/apache2.conf
+  337  service apache2 restart
+  338  sudo chmod -R 777 /var/www/html/
+  339  php artisan migrate
+  340  npm
+  341  npm install
+  342  np, run
+  343  npm run
+  344  sudo chmod -R 777 /var/www/html/
+  345  npm run watch
+  346  cd /
+  347  sudo apt install npm
+  348  npm -v
+  349  node -v
+  350  sudo apt install nodejs-legacy
+  351  cd /
+  352  sudo apt-get purge nodejs npm
+  353  curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+  354  sudo apt-get install -y nodejs
+  355  npm rebuild node-sass
+  356  npm run watch
+  357  sudo npm run watch
+  358  npm run dev
+  359  npm rebuild node-sass --force
+  360  npm run dev
+  361  jekyll liveserve
+  362  git add .
+  363  git commit -m "More posts added"
+  364  git push origin gh-pages
+  365  jekyll liveserve
+  366  sudo service apache2 restart
+  367  composer -v
+  368  shutdown -s -t 9600
+  369  sudo shutdown -P +180
+  370  git add . 
+  371  git commit -m "Changes in design"
+  372  git push origin gh-pages
+  373  cd /
+  374  sudo apt-get install unrar
+  375  php artisan make:seeder RolesTableSeeder
+  376  php artisan make:seeder UsersTableSeeder
+  377  atom .
+  378  php artisan make:model role -m roles
+  379  php artisan make:model role -m=roles
+  380  php artisan make:model role -m==roles
+  381  php artisan make:model role -m roles
+  382  php artisan make:model role -m 
+  383  php artisan meke:migration create_role_user_table --create role_user
+  384  php artisan make:migration create_role_user_table --create role_user
+  385  php artisan make:model Article -m
+  386  php artisan make:model Product -m
+  387  php artisan make:model Category -m
+  388  composer install
+  389  sudo composer install
+  390  sudo composer update
+  391  sudo chmod -r 777 /var/www
+  392  sudo chmod -R 777 /var/www
+  393  php artisan baum:install Category
+  394  php artisan make:seeder RolesTableSeeder
+  395  cd /var/www/html/market
+  396  atom .
+  397  php artisan make:seeder CategoriesTableSeeder
+  398  sudo apt-get purge transmission-gt
+  399  sudo apt-get purge transmission-gtk
+  400  php artisan maka:seeder ProductsTableSeeder
+  401  php artisan make:seeder ProductsTableSeeder
+  402  php artisan migrate
+  403  php artisan seed
+  404  php artisan db:seed
+  405  php artisan migrate:rollback
+  406  php artisan migrate
+  407  php artisan db:seed
+  408  cd /var/www/html/intervention
+  409  atom /a
+  410  atom .
+  411  cd /var/html/www/intervention
+  412  cd /var/www/html/intervention
+  413  composer require intervention/image
+  414  cd /home/mr-robot/
+  415  ls
+  416  cd .composer
+  417  cd ..
+  418  chmod -R 777 .composer/
+  419  sudo chmod -R 777 .composer/
+  420  cd /var/www/html/intervention
+  421  composer require intervention/image
+  422  php artisan vendor:publish --provider="Intervention\Image\ImageServiceProviderLaravel5"
+  423  php artisan make:controller ImageController
+  424  sudo chmod -R 777 /var/www
+  425  atom .
+  426  git add .
+  427  git commit -m "mobile first"
+  428  git push origin gh-pages
+  429  sudo apt-get install hdparm
+  430  sudo hdparm -Tt /dev/sda
+  431  atom .
+  432  history > print.txt
