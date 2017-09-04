@@ -1,3 +1,5 @@
-body {
-  display: none !important;
+.teszt {
+  padding: 15px;
+  border: solid 1px red;
+  font-size: 20px;
 }
